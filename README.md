@@ -17,6 +17,6 @@ Development of an intelligent CAD system to improve the diagnosis of cardiovascu
 ➢ Funded by ITAC GP Support Program Round #17 (ID: GP2022.R17.9) <br>
 ➢ First place in the Fifth Olympiad in Artificial Intelligence at Helwan University <br>
 ➢ Selected as one of the best four projects in AUC Center for Entrepreneurship and Innovation (CEI) at the American University in Cairo (AUC) School of Business, and HACK22 <br>
-➢ Accepted for publication in The Sixth International Undergraduate Research Conference (2022) of The Military Technical College (IUGRC-6) <br>
+➢ Accepted for publication in The Sixth International Undergraduate Research Conference (2022) of The Military Technical College (IUGRC-6) https://iugrc6.conferences.ekb.eg/author?_action=view&manu_code=6189 <br>
 ➢ Finalists of the 14th Special Edition of the UGRF: The Third Egyptian Junior Scholar in Nile University <br>
 ➢ Finalists of the Egypt IoT & AI Challenge 2022
